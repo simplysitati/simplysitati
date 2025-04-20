@@ -30,6 +30,6 @@ That’s why I’m on a journey through **Data Science, AI, Cloud Computing, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simplysitati&layout=compact&theme=radical)  
 
 ## 🎭 Fun Fact – Storytelling with JusWes 📖  
-I don’t just work with data—I **craft narratives** too.  
+I don’t just work with data I **craft narratives** too.  
 Through [**juswes**](https://www.tiktok.com/@_juswes), I explore African love, human experiences, and the emotions that shape us.  
 Because whether it’s **fiction, data, or real-world impact**, the right **story** can change everything.  
